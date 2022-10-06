@@ -11,6 +11,8 @@ This Study Guide contains prework notes regarding HTML, CSS, Git, and JavaScript
 
 The ultimate goal of this prework Study Guide is to introduce some of the concepts we'll be learning more about during the boot camp, and to level-set all of the incoming boot camp participants to a minimium base knowledge level.
 
+Click [here](https://box-o-water.github.io/prework-study-guide/) to view the Study Guide.
+
 ![study guide preview](/assets/images/preview.png)
 
 ## Table of Contents
